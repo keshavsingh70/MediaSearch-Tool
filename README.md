@@ -11,7 +11,7 @@ Users can search for any keyword and browse relevant images and videos through a
 
 ---
 ## ✨ DEMO
-https://vercel.com/keshav-singh-kushwahas-projects/mediasearch-tool/HCMBh5cb8qQtvXuqZeRzYv7Zb5TW
+(https://mediasearch-tool.vercel.app/)
 ## ✨ Features
 
 ### 🖼️ Image Search
